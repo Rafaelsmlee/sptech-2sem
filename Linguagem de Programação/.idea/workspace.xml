@@ -2,49 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32270d71-a4f1-46c1-a266-ac6bb04e8d8e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Aula 4/03-nivelamento-metodos-Rafaelsmlee/src/main/java/school/sptech/ExercicioMetodos.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 4/03-nivelamento-metodos-Rafaelsmlee/src/main/java/school/sptech/ExercicioMetodos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula1/Projeto0001/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula1/Projeto0001/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula1/Projeto0001/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula1/Projeto0001/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula1/Projeto0001/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula1/Projeto0001/src/main/java/school/sptech/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula1/Projeto1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula1/Projeto1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula1/Projeto1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula1/Projeto1/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula2/.idea/Aula2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula2/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula2/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula2/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula2/nivelamento01/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula2/nivelamento01/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula2/nivelamento01/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula2/nivelamento01/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula2/nivelamento01/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula2/nivelamento01/src/main/java/Exemplo01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula2/nivelamento01/src/main/java/Exemplo02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula2/nivelamento01/src/main/java/Exemplo03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula2/nivelamento01/src/main/java/Exemplo04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula2/nivelamento01/src/main/java/Exemplo05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula2/nivelamento01/src/main/java/Exemplo06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula2/nivelamento01/src/main/java/Exemplo07.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula3/Nivelamento02/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula3/Nivelamento02/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula3/Nivelamento02/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula3/Nivelamento02/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula3/Nivelamento02/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula3/Nivelamento02/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula3/Nivelamento02/src/main/java/ExemploScanner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula3/Nivelamento02/src/main/java/ExercicioScanner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula3/Nivelamento02/src/main/java/ExercicioScanner04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula3/Nivelamento02/src/main/java/ExercicioScanner2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula3/Nivelamento02/src/main/java/Utilitaria.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula3/Nivelamento02/src/main/java/teste1.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 4/ExemploListas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 4/03-nivelamento-metodos-Rafaelsmlee" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 4/03-nivelamento-metodos-Rafaelsmlee" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 4/04-revisao-metodos-Rafaelsmlee/src/main/java/school/sptech/GerenciadorDeNotas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 4/04-revisao-metodos-Rafaelsmlee/src/main/java/school/sptech/GerenciadorDeNotas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,24 +12,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Aula 4/04-revisao-metodos-Rafaelsmlee" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2lLkYTf8oe4b0SXYHbXV0Uf9FUR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/pc/Desktop/sptech-2sem/Linguagem de Programação"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/pc/Desktop/sptech-2sem/Linguagem de Programação&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
